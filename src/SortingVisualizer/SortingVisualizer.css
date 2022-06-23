@@ -1,0 +1,9 @@
+.array-bar {
+  width: 20px;
+  background-color: #ec255a;
+  display: inline-block;
+  margin: 0 2.5px;
+  justify-content: center;
+  padding-left: 1px;
+  margin-top: 6px;
+}
